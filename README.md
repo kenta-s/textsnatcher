@@ -20,8 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-Just call the `exec` method of `Textsnatcher::Snatch` class  
-with arguments url and xpath(must be xpath, css is not handled yet sorry!).
+Just call the `exec` method of `Textsnatcher::Snatch` class with arguments url and xpath(must be xpath, css is not supported yet sorry!).
 
 ```ruby
 require 'textsnatcher'
